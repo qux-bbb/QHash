@@ -1,0 +1,6 @@
+__pycache__
+build
+dist
+
+qhash.spec
+QHash Setup.exe
