@@ -4,7 +4,7 @@ Unicode true
 
 ; HM NIS Edit Wizard helper defines
 !define PRODUCT_NAME "QHash"
-!define PRODUCT_VERSION "0.2"
+!define PRODUCT_VERSION "0.3"
 !define PRODUCT_PUBLISHER "q"
 !define PRODUCT_DIR_REGKEY "Software\Microsoft\Windows\CurrentVersion\App Paths\QHash.exe"
 !define PRODUCT_UNINST_KEY "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}"
