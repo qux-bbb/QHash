@@ -3,4 +3,4 @@ build
 dist
 
 qhash.spec
-QHash Setup.exe
+QHash Setup*.exe
